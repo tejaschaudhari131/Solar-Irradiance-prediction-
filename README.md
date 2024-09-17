@@ -150,6 +150,3 @@ This project is licensed under the MIT License. You are free to use, modify, and
 
 As this is a final year college project, contributions are not expected. However, if you have suggestions for improvements, feel free to fork the repository and submit a pull request. We welcome constructive feedback and ideas for further development.
 
-## Acknowledgments
-
-We would like to express our gratitude to our college professors for their guidance and support throughout this project. We also appreciate the contributions of open-source libraries and tools that made this work possible. Finally, we thank our peers for their collaboration and feedback during the development process.
